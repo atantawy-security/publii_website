@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>AT</title>
-    <link href="https://atantawy-security.github.io/publii_website/feed.xml" rel="self" />
-    <link href="https://atantawy-security.github.io/publii_website" />
+    <link href="https://atantawy.com/feed.xml" rel="self" />
+    <link href="https://atantawy.com" />
     <updated>2025-07-14T18:32:05+02:00</updated>
     <author>
         <name>Ahmed Tantawy</name>
     </author>
-    <id>https://atantawy-security.github.io/publii_website</id>
+    <id>https://atantawy.com</id>
 
     <entry>
         <title>Cybersecurity Is No Longer Just Technical but also Strategic</title>
         <author>
             <name>Ahmed Tantawy</name>
         </author>
-        <link href="https://atantawy-security.github.io/publii_website/cybersecurity-is-no-longer-just-technical-but-also-strategic/"/>
-        <id>https://atantawy-security.github.io/publii_website/cybersecurity-is-no-longer-just-technical-but-also-strategic/</id>
-        <media:content url="https://atantawy-security.github.io/publii_website/media/posts/1/17301092-eebf-40e8-b96f-c89611025373-2.png" medium="image" />
+        <link href="https://atantawy.com/cybersecurity-is-no-longer-just-technical-but-also-strategic/"/>
+        <id>https://atantawy.com/cybersecurity-is-no-longer-just-technical-but-also-strategic/</id>
+        <media:content url="https://atantawy.com/media/posts/1/17301092-eebf-40e8-b96f-c89611025373-2.png" medium="image" />
             <category term="Cybersecurity"/>
 
         <updated>2025-07-14T18:18:18+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://atantawy-security.github.io/publii_website/media/posts/1/17301092-eebf-40e8-b96f-c89611025373-2.png" alt="" />
+                        <img src="https://atantawy.com/media/posts/1/17301092-eebf-40e8-b96f-c89611025373-2.png" alt="" />
                     When I started my career in cybersecurity, the mission was clear: defend&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://atantawy-security.github.io/publii_website/media/posts/1/17301092-eebf-40e8-b96f-c89611025373-2.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://atantawy.com/media/posts/1/17301092-eebf-40e8-b96f-c89611025373-2.png" class="type:primaryImage" alt="" /></p>
                 <p data-start="339" data-end="532"> </p>
 <p data-start="339" data-end="532"> </p>
 <p data-start="339" data-end="532"> </p>
 <p data-start="339" data-end="532"> </p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://atantawy-security.github.io/publii_website/media/posts/1/17301092-eebf-40e8-b96f-c89611025373.png" alt="" width="1024" height="1024" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://atantawy-security.github.io/publii_website/media/posts/1/responsive/17301092-eebf-40e8-b96f-c89611025373-xs.png 320w ,https://atantawy-security.github.io/publii_website/media/posts/1/responsive/17301092-eebf-40e8-b96f-c89611025373-sm.png 480w ,https://atantawy-security.github.io/publii_website/media/posts/1/responsive/17301092-eebf-40e8-b96f-c89611025373-md.png 768w ,https://atantawy-security.github.io/publii_website/media/posts/1/responsive/17301092-eebf-40e8-b96f-c89611025373-xl.png 1024w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://atantawy.com/media/posts/1/17301092-eebf-40e8-b96f-c89611025373.png" alt="" width="1024" height="1024" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://atantawy.com/media/posts/1/responsive/17301092-eebf-40e8-b96f-c89611025373-xs.png 320w ,https://atantawy.com/media/posts/1/responsive/17301092-eebf-40e8-b96f-c89611025373-sm.png 480w ,https://atantawy.com/media/posts/1/responsive/17301092-eebf-40e8-b96f-c89611025373-md.png 768w ,https://atantawy.com/media/posts/1/responsive/17301092-eebf-40e8-b96f-c89611025373-xl.png 1024w"></figure>
 <p data-start="339" data-end="532"> </p>
 <p data-start="339" data-end="532">When I started my career in cybersecurity, the mission was clear: defend the perimeter, patch the vulnerabilities, monitor the logs. It was all very technical, very hands-on, and very reactive.</p>
 <p data-start="534" data-end="703">But today, things are different. The world has changed. Our tools have evolved, the threats have matured — and our role as security professionals needs to shift with it.</p>

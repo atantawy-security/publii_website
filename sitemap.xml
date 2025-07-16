@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://atantawy-security.github.io/publii_website/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://atantawy.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://atantawy-security.github.io/publii_website/</loc>
+<loc>https://atantawy.com/</loc>
 </url>
 <url>
-<loc>https://atantawy-security.github.io/publii_website/cybersecurity-is-no-longer-just-technical-but-also-strategic/</loc>
+<loc>https://atantawy.com/cybersecurity-is-no-longer-just-technical-but-also-strategic/</loc>
 <lastmod>2025-07-14T18:32:05+02:00</lastmod>
 <image:image>
-<image:loc>https://atantawy-security.github.io/publii_website/media/posts/1/17301092-eebf-40e8-b96f-c89611025373-2.png</image:loc>
+<image:loc>https://atantawy.com/media/posts/1/17301092-eebf-40e8-b96f-c89611025373-2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://atantawy-security.github.io/publii_website/media/posts/1/17301092-eebf-40e8-b96f-c89611025373.png</image:loc>
+<image:loc>https://atantawy.com/media/posts/1/17301092-eebf-40e8-b96f-c89611025373.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://atantawy-security.github.io/publii_website/terms-and-conditions/</loc>
+<loc>https://atantawy.com/terms-and-conditions/</loc>
 <lastmod>2025-07-14T20:48:23+02:00</lastmod>
 <image:image>
-<image:loc>https://atantawy-security.github.io/publii_website/media/posts/2/627091_1_En_6_Fig38_HTML.jpg</image:loc>
+<image:loc>https://atantawy.com/media/posts/2/627091_1_En_6_Fig38_HTML.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
