@@ -3,12 +3,62 @@
     <title>AT</title>
     <link href="https://atantawy.com/feed.xml" rel="self" />
     <link href="https://atantawy.com" />
-    <updated>2025-07-14T18:32:05+02:00</updated>
+    <updated>2025-07-27T14:51:27+02:00</updated>
     <author>
         <name>Ahmed Tantawy</name>
     </author>
     <id>https://atantawy.com</id>
 
+    <entry>
+        <title>Oracle Cloud Always Free Tier</title>
+        <author>
+            <name>Ahmed Tantawy</name>
+        </author>
+        <link href="https://atantawy.com/oracle-cloud-always-free-tier/"/>
+        <id>https://atantawy.com/oracle-cloud-always-free-tier/</id>
+        <media:content url="https://atantawy.com/media/posts/3/8veVdYY6-OiAdrNWmE1-v.jpeg" medium="image" />
+
+        <updated>2025-07-24T17:05:55+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://atantawy.com/media/posts/3/8veVdYY6-OiAdrNWmE1-v.jpeg" alt="Oracle Cloud Image" />
+                    Introduction Hi everyone! I’m really excited to talk about Oracle’s Free Always&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://atantawy.com/media/posts/3/8veVdYY6-OiAdrNWmE1-v.jpeg" class="type:primaryImage" alt="Oracle Cloud Image" /></p>
+                <h1>Introduction</h1>
+<p class="my-0">Hi everyone! I’m really excited to talk about Oracle’s Free Always Tier. When you hear “free cloud compute,” you might expect some kind of catch or feel like you’re wading into too-good-to-be-true territory. Trust me, I had those same doubts! And yet, here I am, using their free offering regularly at absolutely no cost.</p>
+<h1 class="my-0">Why?</h1>
+<p>I have found navigating through figuring it out, some of the resources are a bit outdated or do not reflect the current status quo. Therefore, I wanted to share my experience in utilizing one of the resources offered by Oracle Cloud.</p>
+<p><em>Note 1: When you lock in the region for always free resources when you are first creating your account, you are always in that region. However, the free resources can be scarce in that region, so keep that in mind</em></p>
+<p><em>Note 2: I will assume you have already created an oracle cloud account.</em></p>
+<h1>Out of Capacity</h1>
+<p>Unfortunately, I was unable to create it with the free account and always had "Out of Capacity" message. Only way to overcome this was to upgrade to Pay-As-You-Go account and when you do, you need to set limits for billing, as a precaution. Nevertheless, you should still have a free instance.</p>
+<h1>Let's Start</h1>
+<ol>
+<li>Search for the "Instances" in the search area.
+<figure class="post__image"><img loading="lazy"  src="https://atantawy.com/media/posts/3//123.PNG" alt="Creating new instance Screenshot " width="1465" height="552" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://atantawy.com/media/posts/3//responsive/123-xs.PNG 320w ,https://atantawy.com/media/posts/3//responsive/123-sm.PNG 480w ,https://atantawy.com/media/posts/3//responsive/123-md.PNG 768w ,https://atantawy.com/media/posts/3//responsive/123-xl.PNG 1024w"></figure>
+</li>
+<li>And click on "create instance"</li>
+<li>Click on "Change Image" and as I will be choosing an Ampere Instance (as AMD instances were not available in my region), I will select "Canonical Ubuntu 24.04 Minimal aarch64"</li>
+<li>When selecting Shape, choose "<span class="TextStyles_base__13t47my0 TextStyles_multiVariantStyles_variant_inherit__13t47myh TextStyles_multiVariantStyles_overflowWrap_anywhere__13t47myt TextStyles_multiVariantStyles_safariStyles_noNeed__13t47my3">VM.Standard.A1.Flex"</span></li>
+<li>Now, you have to select Number of OCPUs and GB
+<ul>
+<li>Just as a reminder the "Always Free" tier is "3,000 OCPU hours and 18,000 GB hours per month" for Ampere which roughly translates to 4OCPU/24GB 1 machine or can be further divided to more VMs.<figure class="post__image"><img loading="lazy"  src="https://atantawy.com/media/posts/3/321.PNG" alt="" width="1303" height="522" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://atantawy.com/media/posts/3/responsive/321-xs.PNG 320w ,https://atantawy.com/media/posts/3/responsive/321-sm.PNG 480w ,https://atantawy.com/media/posts/3/responsive/321-md.PNG 768w ,https://atantawy.com/media/posts/3/responsive/321-xl.PNG 1024w"></figure></li>
+</ul>
+</li>
+<li>From there, you can go with default values. Then create a new VCN or use an already existing one under "Networking"</li>
+<li>Then you need to generate a new ssh key and make sure to download the private key as this will be the only place where you can download it. (Also, make sure you have a backup in a safe place as this is the key to accessing your machine in the future).<figure class="post__image"><img loading="lazy"  src="https://atantawy.com/media/posts/3/ssh.PNG" alt="" width="1009" height="380" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://atantawy.com/media/posts/3/responsive/ssh-xs.PNG 320w ,https://atantawy.com/media/posts/3/responsive/ssh-sm.PNG 480w ,https://atantawy.com/media/posts/3/responsive/ssh-md.PNG 768w ,https://atantawy.com/media/posts/3/responsive/ssh-xl.PNG 1024w"></figure></li>
+<li>Select custom storage size of 200GB which keeps you in always free tier.</li>
+<li>Create the instance, and viola! now you are able to ssh into the instance.</li>
+</ol>
+<p> </p>
+<p><br><br><br><br></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Cybersecurity Is No Longer Just Technical but also Strategic</title>
         <author>
